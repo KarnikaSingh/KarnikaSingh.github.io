@@ -1,11 +1,11 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/KarnikaSingh/KarnikaSingh.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Hi, my name is Karnika Singh.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I hold an integrated Masters of Technology degree in Biomedical Engineering from Indian Institute of Information Technology, Allahabad.
+I graduated second in batch with a CGPA of 9.0/10. I am currently working as a Business Intelligence & Analytic Consultant at Thorogood Associates. I am a medical technology enthusiast and firmly believe that the answers to the global healthcare concerns lie at the intersection of various fields. 
 
 ### Markdown
-
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
