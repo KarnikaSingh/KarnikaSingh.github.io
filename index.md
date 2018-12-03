@@ -1,6 +1,7 @@
 
-##Hi, 
-##my name is Karnika Singh.
+Hi, 
+
+my name is **bold**Karnika Singh.
 
 I hold an integrated Masters of Technology degree in Biomedical Engineering from Indian Institute of Information Technology, Allahabad.
 I graduated second in batch with a CGPA of 9.0/10. I am currently working as a Business Intelligence & Analytic Consultant at Thorogood Associates. I am a medical technology enthusiast and firmly believe that the answers to the global healthcare concerns lie at the intersection of various fields. 
