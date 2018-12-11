@@ -13,10 +13,15 @@ I belive healthcare is the greatest equaliser and by improved healthcare access,
 
 **HONORS AND AWARDS**
 
+
 •	First Dean’s Merit list for extraordinary performance, Fall 2016
+
 •	Recipient of Khorana Scholarship funded by Department of Biotechnology, Govt. of India, Indo US Science & Technology Forum and WINSTEP (2016).  
+
 •	Batch topper (Semester 7 SGPA – 9.54). 
+
 •	Recipient of Merit-cum-Incentive Scholarship from IIIT-A throughout the entire curriculum
+
 •	Recipient of Performance Award from IIIT-A (2014-2015) awarded for excellent academic performance.
 
 
